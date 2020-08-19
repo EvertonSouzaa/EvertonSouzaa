@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 
 # Everton Souza [![linkedin](https://user-images.githubusercontent.com/56324728/87433331-91935a00-c5bf-11ea-8f60-63cc95788ee6.png)](https://www.linkedin.com/in/everton-souza-a93062182/)
 
+Olá, eu sou Everton Souza 👨🏼‍💻
+
+Sou estudante de Análise e desenvolvimento de Sistemas e estou no  4º período, 
+Apaixonado por tecnologias e novos conhecimentos, sempre buscando aprender mais, interagir e compartilhar o conhecimento. 📚
+
