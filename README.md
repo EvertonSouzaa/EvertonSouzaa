@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 Olá, eu sou Everton Souza 👨🏼‍💻
 
-Sou estudante de Análise e desenvolvimento de Sistemas e estou no  4º período, 
+Sou estudante de Análise e desenvolvimento de Sistemas e estou no  6º período, 
 Apaixonado por tecnologias e novos conhecimentos, sempre buscando aprender mais, interagir e compartilhar o conhecimento. 📚
 
