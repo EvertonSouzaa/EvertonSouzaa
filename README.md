@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 👨🏻‍💻 I’m React-native Mobile Developer at <a target="_blank" href="https://www.vetcontrolonline.com.br/">Vet Control</a>
 - 🔨 I use React-native, Android Studio, Firebase and other tecnologies.
 - 🎓 I’m college student at <a target="_blank" href="https://www.unopar.com.br/">Unopar</a>
-- 📝 I study english in Duolingo, 155 days of offensive(https://www.duolingo.com/learn)
+- 📝 I study english in Duolingo, 155 days of offensive[Duolingo](https://www.duolingo.com/learn)
 - 📚 I'm currently reading Clean Architecture
 - 😍 I’m passionate about new knowledge and new challenges
 - 🚀 Always look for some new knowledge!
