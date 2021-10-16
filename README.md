@@ -21,20 +21,20 @@ Here are some ideas to get you started:
 
 [![Linkedin: Everton Souza](https://img.shields.io/badge/-Everton%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/everton-souza-a93062182/)](https://www.linkedin.com/in/everton-souza-a93062182/)
 [![28929274](https://img.shields.io/badge/-Rocketseat-blueviolet?style=flat-square)](https://app.rocketseat.com.br/me/everton-da-silva-souza-01593)
-[![GitHub Eduardo](https://img.shields.io/github/followers/EvertonSouzaa?label=follow&style=social)](https://github.com/EvertonSouzaa)
+[![GitHub Everton](https://img.shields.io/github/followers/EvertonSouzaa?label=follow&style=social)](https://github.com/EvertonSouzaa)
 
 <!-- ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! Welcome to my profile -->
 <!-- 
 <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200"> -->
 
-<!-- - 👨🏻‍💻 I’m Java Back-end Developer at <a target="_blank" href="https://navita.com.br/">Navita</a>
-- 🔨 I'm building things with Java, Spring Framework, JUnit, Mockito, RabbitMQ, PostgreSQL and other tecnologies.
+- 👨🏻‍💻 I’m React-native Mobile Developer at <a target="_blank" href="https://www.vetcontrolonline.com.br/">Vet Control</a>
+- 🔨 I use React-native, Android Studio, Firebase and other tecnologies.
 - 🎓 I’m college student at <a target="_blank" href="https://www.unopar.com.br/">Unopar</a>
-- 📝 I'm currently learning English at [Brasas English Course](https://www.brasas.com/welcome)
+<!-- - 📝 I'm currently learning English at [Brasas English Course](https://www.brasas.com/welcome) -->
 - 📚 I'm currently reading Clean Architecture
 - 😍 I’m passionate about technology
 - 🚀 Never stop learning!
- -->
+
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EvertonSouzaa&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 
 <p align="center">
