@@ -39,10 +39,12 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-<!--     <img src="http://github-readme-streak-stats.herokuapp.com?user=EvertonSouzaa&theme=dark&hide_border=true" />  -->
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EvertonSouza&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=EvertonSouzaa&theme=dark&hide_border=true" />  
+ 
   </a>
 </p>
+
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EvertonSouza&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### tools I currently work..
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
