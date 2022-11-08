@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- 
 <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200"> -->
 
-- 👨🏻‍💻 I’m React-native Mobile Developer at <a target="_blank" href="https://www.vetcontrolonline.com.br/">Vet Control</a>
+- 👨🏻‍💻 I’m React-native Mobile Developer.
 - 🔨 I use React-native, Android Studio, Firebase and other tecnologies.
 - 🎓 I’m college student at <a target="_blank" href="https://www.unopar.com.br/">Unopar</a>
 <!-- - 📚 I'm currently reading Clean Architecture -->
