@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Front-End
 
-Olá! Eu sou Everton, um desenvolvedor front-end apaixonado por criar experiências web incríveis. Com uma sólida base em HTML, CSS e JavaScript, estou constantemente explorando novas tecnologias para aprimorar minhas habilidades e criar interfaces intuitivas e elegantes.
+Olá! Eu sou Everton, um desenvolvedor front-end apaixonado por novas tecnologias. Com uma sólida base em HTML, CSS e JavaScript, estou constantemente explorando novas tecnologias para aprimorar minhas habilidades e criar interfaces intuitivas e elegantes.
 
 ## Tecnologias e Habilidades
 
@@ -21,7 +21,7 @@ Olá! Eu sou Everton, um desenvolvedor front-end apaixonado por criar experiênc
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-EvertonSouzaa&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EvertonSouzaa-username&show_icons=true&theme=dracula)
 
 ## Contato
 
