@@ -21,7 +21,7 @@ Olá! Eu sou Everton, um desenvolvedor front-end apaixonado por novas tecnologia
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EvertonSouzaa&show_icons=true&theme=dracula)
 
 
 ## Contato
