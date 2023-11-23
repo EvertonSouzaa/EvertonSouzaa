@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Front-End
 
-Olá 👋! Me chamo Everton, sou um desenvolvedor front-end apaixonado por novas tecnologias. Com uma sólida base em HTML, CSS e JavaScript, estou constantemente explorando novas tecnologias para aprimorar minhas habilidades e criar interfaces intuitivas e elegantes.
+Olá!👋  Me chamo Everton, sou um desenvolvedor front-end apaixonado por novas tecnologias. Com uma sólida base em HTML, CSS e JavaScript, estou constantemente explorando novas tecnologias para aprimorar minhas habilidades e criar interfaces intuitivas e elegantes.
 
 ## Tecnologias e Habilidades
 
