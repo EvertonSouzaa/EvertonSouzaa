@@ -19,8 +19,7 @@ Olá!👋  Me chamo Everton, sou um desenvolvedor front-end apaixonado por novas
 [![28929274](https://img.shields.io/badge/-Rocketseat-blueviolet?style=flat-square)](https://app.rocketseat.com.br/me/everton-da-silva-souza-01593)
 [![GitHub Everton](https://img.shields.io/github/followers/EvertonSouzaa?label=follow&style=social)](https://github.com/EvertonSouzaa)
 
-## 🌐 Portfólio
-Confira meu portfólio online: [Seu Portfólio] evertonsouzaa.github.io
+
 
 ## Estatísticas do GitHub
 
