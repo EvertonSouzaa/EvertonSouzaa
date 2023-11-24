@@ -2,16 +2,16 @@
 
 ## Desenvolvedor Front-End
 
-Olá!👋  Me chamo Everton, sou um desenvolvedor front-end apaixonado por novas tecnologias. Com uma sólida base em HTML, CSS e JavaScript, estou constantemente explorando novas tecnologias para aprimorar minhas habilidades e criar interfaces intuitivas e elegantes.
+Olá!👋  Me chamo Everton, sou um desenvolvedor front-end apaixonado por novas tecnologias. Com uma sólida base em HTML, CSS e JavaScript, estou constantemente explorando novas tecnologias para aprimorar minhas habilidades.
 
-## Tecnologias e Habilidades
-
-- **Linguagens de Programação:** JavaScript
-- **Frameworks e Bibliotecas:** React.js, React-Native
-- **Pré-processadores CSS:** SASS/SCSS
-- **Ferramentas de Construção:** Webpack, Babel
-- **Controle de Versão:** Git, GitHub
-- **Design Responsivo:** Bootstrap, Media Queries
+## 🛠️ Habilidades
+- HTML5
+- CSS3 (Sass/SCSS)
+- JavaScript (ES6+)
+- React.js
+- React-Native
+- Bootstrap
+- Git
 
 ## Redes Sociais
 
