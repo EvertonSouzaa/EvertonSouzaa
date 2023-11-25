@@ -1,13 +1,19 @@
-# Everton Souza
+# Desenvolvedor Front-End
 
-## Desenvolvedor Front-End
+Bem-vindo ao meu portfólio 👋🏻! Me chamo Everton Souza, sou um desenvolvedor front-end apaixonado por novas tecnologias. você encontrará uma visão geral dos meus projetos e habilidades.
 
-Olá!👋  Me chamo Everton, sou um desenvolvedor front-end apaixonado por novas tecnologias. Com uma sólida base em HTML, CSS e JavaScript, estou constantemente explorando novas tecnologias para aprimorar minhas habilidades.
+## Projetos Destacados
 
+### [Projeto 1: Bikcraft](https://bikcraft-beta-ten.vercel.app/)
 
+site criado utilizando somente HTML,CSS.
 
+### [Projeto 2: Bikcraft 2.0](https://new-bickraft.vercel.app/)
+
+site atualizado do Bikcraft, onde foram melhorados os designs e otimizado o desempenho.
 
 ## 🛠️ Habilidades
+
 - HTML5
 - CSS3 (Sass/SCSS)
 - JavaScript (ES6+)
@@ -16,20 +22,12 @@ Olá!👋  Me chamo Everton, sou um desenvolvedor front-end apaixonado por novas
 - Bootstrap
 - Git
 
-## Redes Sociais
+## Como Entrar em Contato
 
-[![Linkedin: Everton Souza](https://img.shields.io/badge/-Everton%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/everton-souza-a93062182/)](https://www.linkedin.com/in/everton-souza-a93062182/)
-[![28929274](https://img.shields.io/badge/-Rocketseat-blueviolet?style=flat-square)](https://app.rocketseat.com.br/me/everton-da-silva-souza-01593)
-[![GitHub Everton](https://img.shields.io/github/followers/EvertonSouzaa?label=follow&style=social)](https://github.com/EvertonSouzaa)
-
-
-
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EvertonSouzaa&show_icons=true&theme=dracula)
-
-
-## Contato
+Se você está interessado em colaborar ou apenas quer bater um papo, sinta-se à vontade para entrar em contato comigo.
 
 - **Email:** everton.s.dev@outlook.com
+- **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/everton-souza-a93062182/)
+- **Portfolio:** [Meu Site Pessoal](https://evertonsouzaa.github.io/)
 
+Fique à vontade para explorar meus projetos e entrar em contato! Espero colaborar em projetos no futuro.
