@@ -22,6 +22,10 @@ site atualizado do Bikcraft, onde foram melhorados os designs e otimizado o dese
 - Bootstrap
 - Git
 
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EvertonSouzaa&show_icons=true&theme=dracula)
+
 ## Como Entrar em Contato
 
 Se você está interessado em colaborar ou apenas quer bater um papo, sinta-se à vontade para entrar em contato comigo.
