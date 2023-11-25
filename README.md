@@ -22,13 +22,6 @@ site atualizado do Bikcraft, onde foram melhorados os designs e otimizado o dese
 - Bootstrap
 - Git
 
-## Redes Sociais
-
-[![Linkedin: Everton Souza](https://img.shields.io/badge/-Everton%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/everton-souza-a93062182/)](https://www.linkedin.com/in/everton-souza-a93062182/)
-[![28929274](https://img.shields.io/badge/-Rocketseat-blueviolet?style=flat-square)](https://app.rocketseat.com.br/me/everton-da-silva-souza-01593)
-[![GitHub Everton](https://img.shields.io/github/followers/EvertonSouzaa?label=follow&style=social)](https://github.com/EvertonSouzaa)
-
-
 
 ## Estatísticas do GitHub
 
@@ -39,7 +32,7 @@ site atualizado do Bikcraft, onde foram melhorados os designs e otimizado o dese
 Se você está interessado em colaborar ou apenas quer bater um papo, sinta-se à vontade para entrar em contato comigo.
 
 - **Email:** everton.s.dev@outlook.com
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/everton-souza-a93062182/)
+- **LinkedIn:** [![Linkedin: Everton Souza](https://img.shields.io/badge/-Everton%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/everton-souza-a93062182/)](https://www.linkedin.com/in/everton-souza-a93062182/)
 - **Portfolio:** [Meu Portfólio](https://evertonsouzaa.github.io/)
 
 Fique à vontade para explorar meus projetos e entrar em contato! Espero colaborar em projetos no futuro.
