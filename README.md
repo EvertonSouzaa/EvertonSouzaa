@@ -12,6 +12,8 @@ site criado utilizando somente HTML,CSS.
 
 site atualizado do Bikcraft, onde foram melhorados os designs e otimizado o desempenho.
 
+### [Animais Fantásticos](https://animais-fantasticos-omega-bay.vercel.app/)
+Projeto voltado para aprendizado, nele utilizei conhecimentos de (HTML, CSS, JavaScript, requisição em api de cripto moedas)
 ## 🛠️ Habilidades
 
 - HTML5
