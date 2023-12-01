@@ -23,6 +23,23 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 ![Stlyed Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
+## Projetos Destacados
+
+### [Bikcraft](https://bikcraft-beta-ten.vercel.app/)
+
+site criado utilizando somente HTML,CSS.
+
+### [Bikcraft 2.0](https://new-bickraft.vercel.app/)
+
+site atualizado do Bikcraft, onde foram melhorados os designs e otimizado o desempenho.
+
+### [Le Scone](https://le-scone-three.vercel.app/)
+
+Projeto criado para praticar Sass/Scss, nele foi criado um sistema de grid layout, implementado 3 tipos de media queries para diferentes tipos de telas e variaveis/mixins para reutilizar em outras partes da landing page.
+
+### [Animais Fantásticos](https://animais-fantasticos-omega-bay.vercel.app/)
+Projeto voltado para aprendizado, nele utilizei conhecimentos de (HTML, CSS, JavaScript, requisição em api de cripto moedas).
+
 <p align="left">
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
