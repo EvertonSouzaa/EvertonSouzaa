@@ -41,7 +41,7 @@ Projeto criado para praticar Sass/Scss, nele foi criado um sistema de grid layou
 Projeto voltado para aprendizado, nele utilizei conhecimentos de (HTML, CSS, JavaScript, requisição em api de cripto moedas).
 
 <p align="left">
-  💌 Sinta-se a vontade para entrar em contato: ⤵️
+  💌 <strong>Sinta-se a vontade para entrar em contato:</strong> ⤵️
 </p>
 
 ### [Portfólio](https://evertonsouzaa.github.io/)
