@@ -14,7 +14,7 @@ site atualizado do Bikcraft, onde foram melhorados os designs e otimizado o dese
 
 ### [Le Scone](https://le-scone-three.vercel.app/)
 
-Projeto criado para praticar Sass/Scss, nele foi criado um sistema de grid layout, implementado 3 tipos de media queries para diferentes tipos de telas, variaveis e mixins para reutilizar em outras partes da landing page.
+Projeto criado para praticar Sass/Scss, nele foi criado um sistema de grid layout, implementado 3 tipos de media queries para diferentes tipos de telas e variaveis/mixins para reutilizar em outras partes da landing page.
 
 ### [Animais Fantásticos](https://animais-fantasticos-omega-bay.vercel.app/)
 Projeto voltado para aprendizado, nele utilizei conhecimentos de (HTML, CSS, JavaScript, requisição em api de cripto moedas).
