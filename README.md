@@ -23,7 +23,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 ![Stlyed Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
-## Projetos Destacados
+## 📜 Projetos Destacados
 
 ### [Bikcraft](https://bikcraft-beta-ten.vercel.app/)
 
