@@ -40,9 +40,11 @@ Projeto criado para praticar Sass/Scss, nele foi criado um sistema de grid layou
 ### [Animais Fantásticos](https://animais-fantasticos-omega-bay.vercel.app/)
 Projeto voltado para aprendizado, nele utilizei conhecimentos de (HTML, CSS, JavaScript, requisição em api de cripto moedas).
 
-<p align="left">
+
+
+<h2 align="left">
   💌 <strong>Sinta-se a vontade para entrar em contato:</strong> ⤵️
-</p>
+</h2>
 
 ### [Portfólio](https://evertonsouzaa.github.io/)
 
