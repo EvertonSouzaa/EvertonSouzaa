@@ -3,11 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou Petropolitano, tenho 27 anos e sou <strong>Desenvolvedor Front-End</strong>.
+Eu sou Petropolitano, tenho 27 anos e atuo como <strong>Desenvolvedor Front-End</strong>. Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade UNOPAR, e atualmente estou dedicando-me a aprimorar minhas habilidades na área de desenvolvimento. Estou matriculado no Curso da Origamid, focado no aprimoramento do Front-End.
 
-Graduado em Análise e Desenvolvimento de Sistemas na Universidade UNOPAR, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. Estou cursando o Curso da Origamid que é voltado para o Front-End
-
-Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
+Constantemente busco por desafios e oportunidades que me permitam aprender e evoluir profissionalmente. Caso haja interesse em colaborar ou trocar ideias, sinta-se à vontade para entrar em contato comigo. Tenho grande apreço por conhecer novas pessoas e estou sempre explorando maneiras de contribuir para tornar o mundo digital um lugar melhor.
 
 <h2 align="left">
  💻 Linguagens:
@@ -42,9 +40,9 @@ Projeto voltado para aprendizado, nele utilizei conhecimentos de (HTML, CSS, Jav
 
 
 
-<h2 align="left">
+<h3 align="left">
   💌 <strong>Sinta-se a vontade para entrar em contato:</strong> ⤵️
-</h2>
+</h3>
 
 ### [Portfólio](https://evertonsouzaa.github.io/)
 
