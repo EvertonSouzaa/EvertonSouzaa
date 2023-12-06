@@ -106,7 +106,7 @@ Projeto voltado para aprendizado, nele utilizei conhecimentos de (HTML, CSS, Jav
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/danieldribeiro/count.svg"
+    src="https://profile-counter.glitch.me/EvertonSouzaa/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
