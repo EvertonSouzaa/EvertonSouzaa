@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Eu sou Petropolitano, tenho 27 anos e atuo como <strong>Desenvolvedor Front-End</strong>. Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade UNOPAR, e atualmente estou dedicando-me a aprimorar minhas habilidades na área de desenvolvimento. Estou matriculado no Curso da Origamid, focado no aprimoramento do Front-End.
+Eu sou Petropolitano, tenho 28 anos e atuo como <strong>Desenvolvedor Front-End / Mobile</strong>. Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade UNOPAR, e atualmente estou dedicando-me a aprimorar minhas habilidades na área de desenvolvimento. Estou matriculado no Curso da Origamid, focado no aprimoramento do Front-End.
 
 Constantemente busco por desafios e oportunidades que me permitam aprender e evoluir profissionalmente. Caso haja interesse em colaborar ou trocar ideias, sinta-se à vontade para entrar em contato comigo. Tenho grande apreço por conhecer novas pessoas e estou sempre explorando maneiras de contribuir para tornar o mundo digital um lugar melhor.
 
